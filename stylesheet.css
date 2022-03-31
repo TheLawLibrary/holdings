@@ -1,15 +1,17 @@
-p {
-  font-family: "Century Schoolbook", Times, serif
+@font-face {
+  font-family: old-standard-regular;
+  src: url(/holdings/fonts/old-standard/regular.otf);
 }
 
-h1 {
-  font-family: "Century Schoolbook", Times, serif
+@font-face {
+  font-family: old-standard-italic;
+  src: url(/holdings/fonts/old-standard/italic.otf);
 }
 
-h2 {
-  font-family: "Century Schoolbook", Times, serif
+body {
+  font-family: old-standard-regular;
 }
 
-h3 {
-  font-family: "Century Schoolbook", Times, serif
+i {
+  font-family: old-standard-italic;
 }
