@@ -15,3 +15,13 @@ body {
 i {
   font-family: old-standard-italic;
 }
+
+/* Small Caps */
+.sc {
+ font-variant: small-caps;
+}
+
+/* All Caps */
+.ac {
+  text-transform:uppercase;
+}
