@@ -25,3 +25,12 @@ i {
 .ac {
   text-transform:uppercase;
 }
+
+.i25 {
+  padding-left:0.25in;
+}
+
+span.page {
+  font-weight:bold;
+  background-color:#0FFF50;
+}
