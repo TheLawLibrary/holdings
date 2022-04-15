@@ -34,3 +34,8 @@ span.page {
   font-weight:bold;
   background-color:#0FFF50;
 }
+
+.headnote-treaty {
+  text-indent: -0.25in;
+  padding-left: 0.25in;
+}
