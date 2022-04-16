@@ -39,3 +39,25 @@ span.page {
   text-indent: -0.25in;
   padding-left: 0.25in;
 }
+
+/*SAME LINE, DIFFERENT JUSTIFICATION*/
+
+.textbox {
+  display:flex;
+  flex-flow:row wrap;
+}
+
+.alignleft {
+  width:33.33333%;
+  text-align:left;
+}
+
+.aligncenter {
+  width:33.33333%;
+  text-align:center;
+}
+
+.alignright {
+  width:33.33333%;
+  text-align:right;
+}
