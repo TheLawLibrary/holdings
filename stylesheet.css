@@ -44,8 +44,14 @@ span.page {
   padding-left:0.10in;
 }
 
-/*SAME LINE, DIFFERENT JUSTIFICATION*/
+.td {
+  font-variant:small-caps;
+  text-indent: -0.10in;
+  padding-left: 0.10in;
+}
 
+/*SAME LINE, DIFFERENT JUSTIFICATION*/
+/*
 .textbox {
   display:flex;
   flex-flow:row wrap;
@@ -65,3 +71,4 @@ span.page {
   width:33.33333%;
   text-align:right;
 }
+*/
